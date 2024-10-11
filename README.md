@@ -51,4 +51,4 @@ npm run start
 
 ## Better Voting
 Version 2 of the Voting Contract implementing authentication of voters for extra security and storing the user data.
-Added as part of optional task.
+Added as part of optional task. Can be deployed and tested on Remix.
