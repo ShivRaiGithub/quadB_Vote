@@ -47,3 +47,8 @@ npm run start
 3) Go to http://localhost:3000/ and interact with the contract.
 
 4) Demo images of the frontend are present in ./DemoImages folder.
+
+
+## Better Voting
+Version 2 of the Voting Contract implementing authentication of voters for extra security and storing the user data.
+Added as part of optional task.
