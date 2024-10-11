@@ -45,3 +45,5 @@ npm run start
 2) Import an anvil account using the private key provided by anvil. This will be used to sign transactions.
 
 3) Go to http://localhost:3000/ and interact with the contract.
+
+4) Demo images of the frontend are present in ./DemoImages folder.
